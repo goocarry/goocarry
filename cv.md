@@ -27,11 +27,11 @@
     - Go
     - PostgreSQL
 
->_ echo "Education"
+>_ Education
 
     - North-Eastern Federal University, Masters program (2009 - 2015)
 
->_ echo "Contact"
+>_ Contact
 
     - Email: goocarry@gmail.com
     - Telegram: @rwxksv
