@@ -1,16 +1,16 @@
-## Hi there 👋
+```bash
+>_ Professional Duck Typer 🦆 
 
-<!--
-**goocarry/goocarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>_ Interests
 
-Here are some ideas to get you started:
+    - 💻 Go
+    - 🏘️ Microservices Architecture
+    - 🔀 Concurrent Programming
+    - 🧠 Obsidian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>_ Contact
+
+    - Email: goocarry@gmail.com
+    - Telegram: @rwxksv
+    - GitHub: [github.com/goocarry](https://github.com/goocarry)
+    - LinkedIn: [linkedin.com/in/goocarry](https://linkedin.com/in/goocarry)
