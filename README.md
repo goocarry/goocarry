@@ -1,16 +1,14 @@
-```bash
->_ Professional Duck Typer 🦆 
+## Professional Duck Typer 🦆 
 
->_ Interests
+### Interests
 
-    - 💻 Go
-    - 🏘️ Microservices Architecture
-    - 🔀 Concurrent Programming
-    - 🧠 Obsidian
+- 💻 Go
+- 🏘️ Microservices Architecture
+- 🔀 Concurrent Programming
+- 🧠 Obsidian
 
->_ Contact
-
-    - Email: goocarry@gmail.com
-    - Telegram: @rwxksv
-    - GitHub: [github.com/goocarry](https://github.com/goocarry)
-    - LinkedIn: [linkedin.com/in/goocarry](https://linkedin.com/in/goocarry)
+### Contact
+- Email: goocarry@gmail.com
+- Telegram: @rwxksv
+- GitHub: [github.com/goocarry](https://github.com/goocarry)
+- LinkedIn: [linkedin.com/in/goocarry](https://linkedin.com/in/goocarry)

@@ -1,4 +1,5 @@
-```bash
+
+```
 >_ About
 
     Name:            Stan Kuzakov
@@ -30,10 +31,12 @@
 >_ Education
 
     - North-Eastern Federal University, Masters program (2009 - 2015)
-
+    
 >_ Contact
 
-    - Email: goocarry@gmail.com
-    - Telegram: @rwxksv
-    - GitHub: [github.com/goocarry](https://github.com/goocarry)
-    - LinkedIn: [linkedin.com/in/goocarry](https://linkedin.com/in/goocarry)
+- Email: goocarry@gmail.com
+- Telegram: @rwxksv
+- GitHub: github.com/goocarry
+- LinkedIn: linkedin.com/in/goocarry
+
+```
